@@ -76,10 +76,3 @@ Supervised by Umniy Salamah, S.T., MMSI.
 
 ## Contact
 For questions, use the contact email in the project proposal or the project supervisor's contact.
-
-## License
-Add your preferred license (for example, MIT) and include any notes about data use and attribution.
-
----
-
-*If you want the README shortened, expanded, or converted to another format (PDF or DOCX), tell me which format and I'll create it for download.*
