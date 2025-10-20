@@ -1,7 +1,5 @@
 # Spotify Reviews Sentiment Analysis
 
-**Easy-to-read README (English)**
-
 ## Project Summary
 This project performs sentiment analysis on user reviews for the Spotify Android app. It compares three machine learning models — **Logistic Regression**, **Random Forest**, and **Naive Bayes** — to find a good trade-off between accuracy and speed.
 
